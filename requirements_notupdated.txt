@@ -1,6 +1,6 @@
 Flask==3.1.3
 openai==0.27.0
-requests==2.32.4
+requests==2.33.0
 beautifulsoup4==4.9.3
-langchain==0.2.5  # Note: As of my knowledge cutoff in 2021, langchain was not a publicly available library. Please replace this with the correct version if it's now available.
+langchain==0.3.30  # Note: As of my knowledge cutoff in 2021, langchain was not a publicly available library. Please replace this with the correct version if it's now available.
 faiss-cpu==1.7.1.post2
